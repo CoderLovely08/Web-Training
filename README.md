@@ -6,11 +6,11 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 1. Git and GitHub Basics
 2. HTML & HTML5
 3. CSS & CSS3
-4. JavaScript Basics
+4. JavaScript 
 5. DOM Manipulation with JavaScript
-6. jQuery Basics
-7. Node.js Basics
-8. Express.js Basics
+6. jQuery 
+7. Node.js 
+8. Express.js 
 9. SQL DDL and DML Commands
 10. Final Project: Blog Website
 
@@ -37,6 +37,10 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 - CSS3 transitions, transformations, and animations
 - Introduction to Flexbox and Grid layout
 
+### - Mini Project 1 - *Portfolio Project* (HTML and CSS)
+Design and build a personal portfolio website showcasing your skills, projects, and contact information.
+
+
 ## 4. JavaScript Basics
 - Introduction to JavaScript
 - Variables, data types, and operators
@@ -59,6 +63,10 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 - Event handling and binding
 - Applying CSS dynamically
 
+### - Mini Project 2 -  *Dice Rolling Game* (JavaScript and jQuery)
+Create a web-based game where users can roll dice and see the results. Use JavaScript and jQuery to handle user interactions and display the outcome.
+
+
 ## 7. Node.js Basics
 - Introduction to Node.js
 - Setting up Node.js environment
@@ -73,6 +81,9 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 - Parsing form data with Express.js
 - Rendering dynamic views with templating engines
 
+### - Mini Project 3 - *Login Form* ( (Node.js and Express.js)
+Develop a login form that collects user credentials and validates them using Node.js and Express.js. Implement basic authentication and session management.
+
 ## 9. SQL DDL and DML Commands
 - Introduction to SQL (Structured Query Language)
 - Creating and modifying database structures with DDL (Data Definition Language)
@@ -86,13 +97,5 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 - Viewing and commenting on blog posts
 - Updating and deleting blog posts
 
-## Final Project Ideas
 
-### 1. Portfolio Website (HTML and CSS)
-Design and build a personal portfolio website showcasing your skills, projects, and contact information.
 
-### 2. Dice Rolling Game (JavaScript and jQuery)
-Create a web-based game where users can roll dice and see the results. Use JavaScript and jQuery to handle user interactions and display the outcome.
-
-### 3. Basic Login Form (Node.js and Express.js)
-Develop a login form that collects user credentials and validates them using Node.js and Express.js. Implement basic authentication and session management.
