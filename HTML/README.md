@@ -17,7 +17,7 @@ Paragraphs are used to represent blocks of text. You can enclose text within a `
 ```html
 <p>This is a paragraph of text.</p>
 ```
-![Heading](images/paragraph.png)
+![Paragraph](images/paragraph.png)
 
 ### Lists
 Lists are used to present information in an ordered or unordered format. HTML provides two types of lists: ordered lists (`<ol>`) and unordered lists (`<ul>`). Here's an example of each:
@@ -30,7 +30,7 @@ Ordered List:
   <li>Third item</li>
 </ol>
 ```
-![Heading](images/ol.png)
+![Ordered list](images/ol.png)
 
 Unordered List:
 ```html
@@ -40,7 +40,7 @@ Unordered List:
   <li>Blue</li>
 </ul>
 ```
-![Heading](images/ul.png)
+![Unordered list](images/ul.png)
 
 ### Images
 Images can be included in a web page using the `<img>` tag. The `src` attribute specifies the URL or file path of the image, and the `alt` attribute provides alternative text for screen readers or when the image cannot be displayed. Here's an example:
@@ -48,7 +48,7 @@ Images can be included in a web page using the `<img>` tag. The `src` attribute 
 ```html
 <img src="path/to/image.jpg" alt="Description of the image">
 ```
-![Heading](images/img.png)
+![Image](images/img.png)
 
 ### Anchors (Links)
 Anchors, or links, are used to navigate between web pages. You can create a link using the `<a>` tag. The `href` attribute specifies the URL of the destination page. Here's an example:
@@ -56,7 +56,7 @@ Anchors, or links, are used to navigate between web pages. You can create a link
 ```html
 <a href="https://www.example.com">Click here to visit Example.com</a>
 ```
-![Heading](images/anchor.png)
+![Anchor](images/anchor.png)
 
 ### Divisions (Divs)
 Divisions are container elements that are used to group and style other HTML elements. They are commonly used for layout purposes. Here's an example:
@@ -67,7 +67,7 @@ Divisions are container elements that are used to group and style other HTML ele
   <img src="path/to/image.jpg" alt="Image inside a div">
 </div>
 ```
-![Heading](images/div.png)
+![Division](images/div.png)
 
 ### Audio
 The `<audio>` tag is used to embed audio content on a web page. The `src` attribute specifies the URL or file path of the audio file, and the `<source>` element allows you to specify multiple audio sources in different formats to ensure compatibility across different browsers. Here's an example:
@@ -79,7 +79,7 @@ The `<audio>` tag is used to embed audio content on a web page. The `src` attrib
   Your browser does not support the audio element.
 </audio>
 ```
-![audio](images/audio.png)
+![Audio](images/audio.png)
 
 ### Video
 The `<video>` tag is used to embed video content on a web page. Similar to the `<audio>` tag, you can specify multiple video sources using the `<source>` element. Here's an example:
