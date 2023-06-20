@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        /* Applies to whole page */
+        body {
+            background-color: #e8e3e3;
+        }
+
+        /* Applies to the div only */
+        div {
+            border: 1px solid;
+            /* default is black color */
+            padding: 20px;
+        }
+
+        /* For applying the same style to mulitple elements at once */
+        h1,
+        p,
+        button {
+            background-color: rgb(70, 185, 146);
+            color: #fff;
+            padding: 12px;
+            letter-spacing: 1px;
+            line-height: 30px;
+        }
+
+        /* only applies to h1, existing + this one */
+        h1 {
+            /* border: size type color */
+            border: 5px solid rgb(98, 233, 175);
+            border-radius: 16px;
+            color: #fff;
+            text-align: center;
+        }
+
+        /* Applies to all img elements on the page */
+        img {
+            border: 2px solid;
+            /* border: 2px dotted ; */
+            /* border: 2px dashed ; */
+            /* border: 2px double red; */
+            /* padding: top right bottom left */
+            padding: 20px 10px;
+            /* padding-top/right/bottom/left */
+            /* padding-top: 20px;
+            padding-right: 10px;
+            padding-left: 10px;
+            padding-bottom: 20px; */
+            margin: 0px 5px 10px 0;
+            /* box-shadow: 0px 0px 14px rgba(0, 0, 0, 1); */
+            transition: 0.2s all ease-in-out;
+
+        }
+
+        img:hover {
+            box-shadow: 0px 0px 14px rgba(0, 0, 0, 1);
+
+        }
+
+        a {
+            background-color: rgb(110, 230, 35);
+            border-radius: 12px;
+            color: #fff;
+            font-weight: bold;
+            margin: 20px 10px;
+            padding: 10px 18px;
+            text-decoration: none;
+            transition: 0.3s all ease-in-out;
+        }
+
+        a:hover {
+            background-color: rgb(94, 184, 38);
+        }
+
+        .myDiv {
+            background-color: red;
+            border-radius: 50%;
+            height: 200px;
+            margin: 20px;
+            width: 200px;
+        }
+
+        button {
+            background-color: #2f6eec;
+            border: none;
+            border-radius: 16px;
+            color: #fff;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 12px 18px;
+            position: relative;
+        }
+
+        button:hover {
+            box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+
+        <style>
+            /* only applies to h1, existing + this one */
+            h1 {
+                /* border: size type color */
+                border: 5px solid rgb(98, 233, 175);
+                border-radius: 16px;
+                color: #fff;
+                text-align: center;
+            }
+        </style>
+        <!-- Heading -->
+        <sPan>Heading Tag</sPan>
+        <h1>Nobita</h1>
+
+        <!-- Paragraph -->
+        <span>Paragraph tag</span>
+        <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto culpa veniam distinctio cupiditate
+            porro adipisci iusto facilis aliquid reiciendis, assumenda quia dolorum, veritatis quae placeat molestias.
+            Veritatis dolorem culpa blanditiis.
+        </p>
+
+
+        <span>Images</span>
+        <br>
+        <img src="../images/nobita.jpg" alt="" height="200px">
+        <img src="../images/nobita.jpg" alt="" height="200px">
+        <img src="../images/nobita.jpg" alt="" height="200px">
+        <img src="../images/nobita.jpg" alt="" height="200px">
+        <br>
+
+        <!-- Buttons -->
+        <span>Buttons</span>
+        <br>
+        <button>Click to know more</button>
+        <br>
+        <br>
+
+        <!-- H1 and H2 -->
+        <span>Headings (h1, h2)</span>
+        <h1>Shizuka</h1>
+
+        <!-- Anchor tag -->
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 2</a>
+
+
+        <!-- Creating a circle using div -->
+        <div class="myDiv">
+
+        </div>
+</body>
+
+</html>
