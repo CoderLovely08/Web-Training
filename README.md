@@ -3,9 +3,9 @@
 ## Introduction
 Welcome to the Full Stack Web Development Workshop! In this workshop, we will cover the fundamentals of web development and equip you with the skills needed to create dynamic and interactive web applications. Throughout the workshop, we will focus on the following topics:
 
-1. Git and GitHub Basics
-2. HTML & HTML5
-3. CSS & CSS3
+1. Git and GitHub Basics [Notes](Git/README.md)
+2. HTML & HTML5 [Notes](HTML/README.md)
+3. CSS & CSS3 [Notes](CSS/README.md)
 4. JavaScript 
 5. DOM Manipulation with JavaScript
 6. jQuery 
