@@ -6,13 +6,14 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 1. Git and GitHub Basics [Notes](Git/README.md)
 2. HTML & HTML5 [Notes](HTML/README.md)
 3. CSS & CSS3 [Notes](CSS/README.md)
-4. JavaScript 
-5. DOM Manipulation with JavaScript
-6. jQuery 
-7. Node.js 
-8. Express.js 
-9. SQL DDL and DML Commands
-10. Final Project: Blog Website
+4. Bootstrap [Notes](Bootstrap/index.html)
+5. JavaScript 
+6. DOM Manipulation with JavaScript
+7. jQuery 
+8. Node.js 
+9. Express.js 
+10. SQL DDL and DML Commands
+11. Final Project: Blog Website
 
 ## 1. Git and GitHub Basics
 - Introduction to version control and Git
