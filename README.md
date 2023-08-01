@@ -7,7 +7,7 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 2. HTML & HTML5 [Notes](HTML/README.md)
 3. CSS & CSS3 [Notes](CSS/README.md)
 4. Bootstrap [Notes](Bootstrap/index.html)
-5. JavaScript 
+5. JavaScript [Notes1](Javascript/script.js) / [Notes2](https://github.com/CoderLovely08/Web-Development-bootcamp/blob/main/10.%20Javascript/script.js)
 6. DOM Manipulation with JavaScript
 7. jQuery 
 8. Node.js 
