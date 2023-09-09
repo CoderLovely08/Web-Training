@@ -11,7 +11,7 @@ Welcome to the Full Stack Web Development Workshop! In this workshop, we will co
 6. DOM Manipulation with JavaScript [Notes1](Javascript/dom.js) / [Notes2](https://github.com/CoderLovely08/Web-Development-bootcamp/blob/main/11.%20DOM/index.html)
 7. jQuery 
 8. Node.js [Notes](Nodejs/app.js)
-9. Express.js [Notes](https://github.com/CoderLovely08/Web-Development-bootcamp/blob/main/17.%20ExpressJs/server.js)
+9. Express.js [Class Notes](Express/Hello-World/app.js) / [Notes1](https://github.com/CoderLovely08/Web-Development-bootcamp/blob/main/17.%20ExpressJs/server.js) / [EJS](https://github.com/CoderLovely08/Web-Development-bootcamp/blob/main/19.%20EJS/app.js)
 10. SQL DDL and DML Commands
 11. Final Project: Blog Website
 
